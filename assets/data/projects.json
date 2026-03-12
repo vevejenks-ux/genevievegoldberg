@@ -1,0 +1,273 @@
+{
+  "projects": [
+    {
+      "id": "microsoft-company-analysis",
+      "date": "December 2025",
+      "title": "Microsoft Company Analysis",
+      "summary": "Developed a strategic and financial case study of Microsoft, evaluating competitive position, growth drivers, and key risks tied to AI, cloud, and enterprise software.",
+      "tags": ["Strategy", "Analytics", "Research"],
+      "tools": ["Financial statement analysis", "Industry benchmarking", "SWOT framework", "Competitive analysis"],
+      "problem": "The assignment required a clear, evidence-based view of Microsoft's business performance and strategic outlook in a rapidly changing technology market.",
+      "built": "I structured a full company analysis covering business model, market positioning, financial trends, and strategic recommendations. The output translates complex data into concise findings and decision-ready takeaways.",
+      "impact": [
+        "Delivered a complete, presentation-ready case study with clear narrative flow",
+        "Synthesized market and financial signals into actionable strategic insights",
+        "Created a reusable analysis structure for future public-company case studies"
+      ],
+      "screenshot": "",
+      "loomUrl": "./assets/docs/microsoft-company-analysis-dec-2025.pdf",
+      "ctaLabel": "Open Case Study PDF"
+    },
+    {
+      "id": "adapt-forward-dashboard",
+      "date": "February 2026",
+      "title": "LinkedIn Marketing Intelligence Platform | Adapt Forward",
+      "summary": "Built a single reporting system for LinkedIn and website performance so leadership could review weekly metrics in one exec-ready view.",
+      "tags": ["Analytics", "Automation", "B2B"],
+      "tools": ["Claude/Claude Code", "Codex", "spreadsheets", "LinkedIn analytics", "website analytics"],
+      "problem": "Marketing performance data for LinkedIn and website activity existed across separate exports and manual reports which made it difficult for leadership to evaluate channel performance or track KPI trends week to week. Reporting required manual compilation and lacked a consistent framework for measuring engagement follower growth and lead generation performance.",
+      "built": "I designed and built a centralized marketing intelligence dashboard that combines LinkedIn analytics and marketing performance data into one reporting system. The dashboard standardizes key KPIs such as impressions engagement rate follower growth and post performance. It visualizes trends through engagement charts post level analytics and performance summaries. I also created a recommendation layer that analyzes activity and surfaces opportunities to improve growth strategy content performance and lead generation. The system highlights top performing posts engagement patterns and follower trends so marketing decisions can be based on clear data insights.",
+      "impact": [
+        "Reduced manual reporting by creating a single reporting source for LinkedIn performance",
+        "Enabled leadership to review marketing performance in one executive ready dashboard",
+        "Improved visibility into engagement trends top performing content and audience growth",
+        "Provided automated recommendations to improve follower growth and lead generation performance"
+      ],
+      "screenshots": [
+        "./assets/img/linkedinhomepage.png",
+        "./assets/img/linkedinpostperformance.png",
+        "./assets/img/linkedinrecomendations.png"
+      ],
+      "loomUrl": ""
+    },
+    {
+      "id": "digital-portfolio-optimization-dana-yurglich",
+      "date": "Present",
+      "title": "Website Redesign and Content Optimization | Dana Yurglich",
+      "summary": "Rebuilding Dana Yurglich's Squarespace portfolio by organizing thousands of styling images, optimizing performance, and improving SEO-focused content structure.",
+      "tags": [
+        "Squarespace",
+        "Website Strategy",
+        "SEO",
+        "Content Architecture",
+        "Portfolio Design",
+        "UX Optimization",
+        "Performance Optimization",
+        "Mobile Optimization"
+      ],
+      "tools": [
+        "Squarespace",
+        "Image compression workflows",
+        "SEO copywriting",
+        "Content architecture planning",
+        "Mobile UX optimization"
+      ],
+      "problem": "Dana Yurglich’s Squarespace portfolio website contains thousands of images from past styling projects across campaigns editorial shoots and brand collaborations. Much of the content existed in large unorganized photo archives which made it difficult to structure the portfolio in a clear way for visitors. Image file sizes were extremely large which slowed site performance and created challenges for page load speed and mobile viewing. The site structure and written copy also needed improvement to strengthen search visibility and present Dana’s work in a cleaner more strategic way.",
+      "built": "I am auditing Dana’s full archive of styling work and organizing thousands of images into a structured portfolio system within her Squarespace website. This includes selecting the strongest visuals from campaigns editorials and runway projects then categorizing them into a clear navigation flow that allows visitors to easily explore her work.\n\nI am also developing new website copy that better communicates Dana’s brand positioning while improving visibility across search engines and AI driven search platforms. The goal is to create a clean professional digital portfolio that clearly highlights her styling projects and industry collaborations.\n\nIn addition I am optimizing all website assets by converting large image files into web optimized formats and resizing them so the site loads quickly while maintaining high visual quality. I am also refining the mobile experience within Squarespace to ensure the portfolio displays clearly and performs well across different devices.",
+      "impact": [
+        "Organizing and curating thousands of portfolio images into a structured digital portfolio",
+        "Improving website speed through image compression and asset optimization",
+        "Developing SEO optimized and AI searchable website copy",
+        "Improving mobile responsiveness and overall user experience",
+        "Creating a clearer portfolio structure to showcase styling work and brand collaborations"
+      ],
+      "screenshotHeading": "Sneak Peek:",
+      "screenshots": [
+        "./assets/img/danasneakpeek1.png",
+        "./assets/img/danasneakpeek2.png"
+      ],
+      "siteUrl": "https://www.danayurglich.com/",
+      "siteLabel": "View Current Site",
+      "loomUrl": ""
+    },
+    {
+      "id": "social-media-strategy-content-development-dana-yurglich",
+      "date": "Present",
+      "title": "Social Media Strategy and Content Development | Dana Yurglich",
+      "summary": "Building and managing Dana Yurglich's Instagram and Facebook strategy through structured scheduling, visual storytelling formats, and engagement-focused content planning.",
+      "tags": [
+        "Social Media Strategy",
+        "Instagram Marketing",
+        "Content Creation",
+        "Reels Strategy",
+        "Carousel Content",
+        "Buffer",
+        "Content Scheduling",
+        "Digital Portfolio"
+      ],
+      "tools": [
+        "Instagram",
+        "Facebook",
+        "Buffer",
+        "Content calendar planning",
+        "Reels and carousel production"
+      ],
+      "problem": "Dana Yurglich’s social media presence serves as an important platform for showcasing styling projects and industry collaborations. However consistent posting, strategic content planning, and engagement focused formats were needed to grow visibility and strengthen audience interaction across Instagram and Facebook. Without a structured content workflow it was difficult to maintain a steady posting schedule and maximize the reach of visual portfolio content.",
+      "built": "I am developing and managing Dana’s social media content strategy across Instagram and Facebook. This includes creating visual content formats such as reels carousel posts and portfolio highlights that showcase her styling work from editorial shoots fashion events and brand collaborations.\n\nI plan and schedule weekly content using Buffer which allows posts to be organized in advance and automatically published across platforms. This system helps maintain a consistent posting schedule while allowing time to focus on developing engaging content.\n\nI am also experimenting with reel formats and carousel storytelling to highlight styling projects in a more dynamic way that performs well within platform algorithms. The goal is to increase engagement strengthen brand visibility and position Dana’s social media as a digital portfolio for her styling work.",
+      "impact": [
+        "Creating reels and carousel posts designed to increase engagement and reach",
+        "Implementing a structured weekly posting workflow using Buffer",
+        "Improving consistency of content publishing across Instagram and Facebook",
+        "Increasing engagement through visual storytelling and styling portfolio highlights",
+        "Strengthening Dana’s social media presence as a platform for showcasing styling work"
+      ],
+      "screenshotHeading": "Content Examples:",
+      "screenshots": [
+        "./assets/img/reelexample.mov",
+        "./assets/img/photoexample.PNG"
+      ],
+      "siteUrl": "https://www.instagram.com/danayurglich/",
+      "siteLabel": "View Instagram",
+      "loomUrl": ""
+    },
+    {
+      "id": "founder-operator-envie-boutique",
+      "date": "2021-2023",
+      "title": "Founder & Operator | Envie Boutique",
+      "summary": "Launched and operated Envie as an online and pop-up boutique, managing sourcing, merchandising, e-commerce, marketing, and financial operations from age 17 through 2023.",
+      "tags": [
+        "Entrepreneurship",
+        "E-commerce",
+        "Fashion Retail",
+        "Social Media",
+        "SEO",
+        "Operations"
+      ],
+      "tools": [
+        "Wix",
+        "Instagram",
+        "QuickBooks",
+        "Atlanta Apparel Market",
+        "COTERIE New York"
+      ],
+      "problem": "In 2021, I launched Envie, an online and pop-up clothing boutique created from my passion for fashion and entrepreneurship. I started the business at 17 years old and operated it until 2023 when I left to attend Palm Beach Atlantic University. Through Envie, I gained hands-on experience managing every aspect of a retail business, from product sourcing and marketing to e-commerce operations and financial management.",
+      "built": "I developed Envie as both an online boutique and a pop-up retail experience, allowing me to build relationships with customers in the local community while also selling through an e-commerce platform. I attended local markets and vendor pop-ups to showcase collections and grow brand awareness.\n\nTo source inventory, I researched seasonal trends and attended major fashion trade markets including Atlanta Apparel Market at AmericasMart Atlanta and COTERIE New York, where boutique owners preview and purchase upcoming seasonal collections. These experiences helped me understand how to identify trending styles, forecast seasonal demand, and curate collections aligned with current fashion trends.",
+      "impact": [
+        "Founded and operated a fashion boutique at age 17",
+        "Built and managed a full e-commerce website using Wix",
+        "Attended fashion trade markets including Atlanta Apparel Market and COTERIE New York to source inventory",
+        "Curated seasonal collections based on trend forecasting and customer demand",
+        "Organized and participated in local pop-up markets and community vendor events",
+        "Produced product photoshoots and managed all visual merchandising",
+        "Uploaded product listings including pricing, descriptions, and inventory management",
+        "Managed the brand's Instagram account and social media marketing",
+        "Created and maintained a blog on the website to support SEO and organic traffic",
+        "Maintained financial records and bookkeeping using QuickBooks",
+        "Managed sales tracking, expenses, and business tax organization",
+        "Launching Envie gave me early entrepreneurial experience and taught me how to run a business end to end across merchandising, marketing, brand development, financial organization, and e-commerce operations."
+      ],
+      "screenshots": [
+        "./assets/img/EnviePopup.png"
+      ],
+      "screenshotHeading": "Brand Example:",
+      "siteUrl": "https://www.instagram.com/shopenviestyle/",
+      "siteLabel": "View Instagram",
+      "loomUrl": ""
+    },
+    {
+      "id": "ai-powered-marketing-analytics-assistant",
+      "date": "January 2026",
+      "title": "AI Powered Marketing Analytics Assistant | Adapt Forward",
+      "summary": "Built a custom GPT that evaluates LinkedIn and website analytics, computes core marketing KPIs, and turns raw data into clear strategic recommendations.",
+      "tags": ["AI", "Analytics", "Automation", "Marketing Intelligence"],
+      "tools": ["Custom GPT", "LinkedIn analytics", "website analytics", "spreadsheets", "exported dashboards"],
+      "problem": "To improve how I analyze marketing performance data, I built a custom GPT designed to evaluate LinkedIn and website analytics and surface meaningful insights. The goal was to create a system that helps translate raw marketing data into clear, strategic recommendations.",
+      "built": "I configured the assistant with structured instructions and uploaded calculation frameworks for key marketing metrics such as engagement rate, impressions, reach, and performance trends. The system analyzes only user-provided data including spreadsheets, exported dashboards, and performance tables.\n\nBy embedding the formulas and analytical logic directly into the model’s instructions, the assistant can compute key performance indicators, validate datasets, and identify patterns that influence campaign performance.",
+      "impact": [
+        "Calculates core marketing metrics such as engagement rate, impressions, and performance ratios",
+        "Reviews LinkedIn and website analytics from spreadsheets or exported dashboard data",
+        "Identifies trends, anomalies, and performance drivers",
+        "Surfaces insights that may be missed when manually reviewing large datasets",
+        "Produces clear summaries to support data-driven marketing decisions",
+        "Acts as a marketing analytics support tool that helps move from raw data to actionable insights more efficiently"
+      ],
+      "screenshotHeading": "Assistant Example:",
+      "screenshots": [
+        "./assets/img/dataanalystgpt.jpeg"
+      ],
+      "loomUrl": ""
+    },
+    {
+      "id": "ai-powered-marketing-strategy-assistant-adapt-forward",
+      "date": "October 2025",
+      "title": "AI-Powered Marketing Strategy Assistant | Adapt Forward",
+      "summary": "Built a custom GPT to support Adapt Forward's marketing strategy by identifying industry trends, generating strategic content ideas, and guiding LinkedIn best-practice decisions.",
+      "tags": ["AI", "Strategy", "Content Ops", "LinkedIn", "B2B"],
+      "tools": ["Custom GPT", "B2B marketing frameworks", "LinkedIn strategy guidance", "content planning workflows"],
+      "problem": "To support marketing strategy and content development for Adapt Forward, I built a custom GPT designed to act as a marketing strategy assistant. The goal was to create a system that helps quickly identify relevant industry trends, generate strategic content ideas, and provide guidance on LinkedIn marketing best practices.",
+      "built": "I configured the assistant with structured instructions focused on B2B marketing strategy, LinkedIn growth practices, and content development. The system is designed to help evaluate marketing ideas, identify trending topics within the industry, and guide content strategy decisions based on current platform best practices.\n\nBy embedding strategic frameworks and marketing guidance directly into the assistant’s configuration, the tool can help analyze marketing opportunities, refine messaging, and support more informed decision-making for content and brand positioning.",
+      "impact": [
+        "Identifies trending topics and relevant industry conversations for LinkedIn content",
+        "Provides guidance on LinkedIn best practices to improve engagement and reach",
+        "Assists in generating strategic marketing ideas and campaign directions",
+        "Supports thought leadership and content planning",
+        "Helps refine messaging and positioning for marketing initiatives",
+        "Streamlines strategy development with faster, more consistent decision support aligned to industry and platform trends"
+      ],
+      "screenshotHeading": "Assistant Example:",
+      "screenshots": [
+        "./assets/img/marketingexpertgpt.jpeg"
+      ],
+      "loomUrl": ""
+    },
+    {
+      "id": "ai-built-personal-marketing-portfolio",
+      "date": "March 2026",
+      "title": "AI-Built Personal Marketing Portfolio",
+      "summary": "Built a full personal portfolio website using AI-assisted coding to showcase case studies, communicate experience, and provide a central hub for recruiters and collaborators.",
+      "tags": ["AI", "Web Development", "Portfolio", "Marketing", "Analytics"],
+      "tools": ["Codex", "HTML", "CSS", "JavaScript", "AI-assisted coding workflows"],
+      "problem": "I built my personal marketing portfolio website to create a resume that would stand out beyond a traditional document. Instead of designing a static portfolio in tools like Canva, I decided to apply my AI and technical skills by building a fully functioning website using AI-assisted coding.\n\nThe goal was to create a platform that clearly communicates my experience, showcases my case studies, and allows recruiters or collaborators to easily understand my work and contact me.",
+      "built": "I used Codex to develop the structure and functionality of the site, guiding the AI through prompts to generate the code needed to build the application. Through this process, I learned how to translate ideas into working components by collaborating with AI to develop the site architecture, layout, and functionality.\n\nAs I built the project, I iterated on the design, uploaded images, connected navigation between pages, and refined the structure so the site clearly presents my professional work. The result is a streamlined portfolio that highlights projects, communicates my positioning as a marketing strategist leveraging AI and analytics, and provides a central hub for my work.",
+      "impact": [
+        "Built a fully functional personal portfolio website using AI-assisted coding",
+        "Leveraged Codex to generate and iterate on website code and functionality",
+        "Structured the site to showcase case studies and marketing projects",
+        "Implemented navigation, page linking, and layout components",
+        "Uploaded and integrated visual assets to support project storytelling",
+        "Designed the site to clearly communicate skills in marketing, analytics, and AI systems",
+        "Created an accessible platform for recruiters and collaborators to explore my work",
+        "Building this portfolio strengthened AI-assisted coding, website structure, and digital product iteration skills while showcasing both marketing strategy and systems-building capabilities"
+      ],
+      "screenshot": "",
+      "loomUrl": ""
+    },
+    {
+      "id": "google-analytics-certification-google-skillshop",
+      "date": "September 2025",
+      "title": "Google Analytics Certification | Google Skillshop",
+      "summary": "Completed Google Analytics Certification to strengthen skills in measuring website performance, interpreting user behavior, and applying analytics insights to marketing strategy.",
+      "tags": ["Certification", "Analytics", "Google Analytics", "Marketing"],
+      "tools": ["Google Skillshop", "Google Analytics", "analytics dashboards", "conversion reports"],
+      "problem": "To strengthen my ability to measure and interpret marketing performance, I earned the Google Analytics Certification through Google Skillshop. The certification focuses on understanding how to collect, analyze, and interpret website data to support more informed marketing decisions.\n\nThis training reinforced my ability to move beyond surface-level metrics and evaluate how users interact with digital platforms, helping identify opportunities to improve marketing performance and user experience.",
+      "built": "Through the certification program, I developed a deeper understanding of how analytics platforms track user behavior across websites and how marketers can use that data to evaluate campaign effectiveness.\n\nThe coursework covered core analytics concepts including traffic acquisition, engagement metrics, conversion tracking, and interpreting reports to understand how users move through a website.\n\nBy learning how to structure and interpret analytics reports, I gained the ability to translate raw performance data into insights that support marketing strategy and optimization.",
+      "impact": [
+        "Understanding how website traffic is tracked and measured using Google Analytics",
+        "Analyzing acquisition channels to determine where users are coming from",
+        "Interpreting engagement metrics such as sessions, bounce rate, and user behavior",
+        "Evaluating conversion performance and marketing campaign effectiveness",
+        "Identifying trends and opportunities for website and marketing optimization",
+        "Using analytics dashboards to translate performance data into actionable insights",
+        "Strengthened ability to make data-driven marketing decisions using measurable user behavior and performance metrics"
+      ],
+      "screenshot": "",
+      "siteUrl": "https://skillshop.credential.net/9aa42791-94b1-44a0-836c-3718d875d3d7",
+      "siteLabel": "View Credential",
+      "loomUrl": ""
+    }
+  ],
+  "promptLibrary": [
+    {
+      "id": "prompt-dashboard-insight-1",
+      "title": "Dashboard Weekly Insights (Adapt Forward)",
+      "prompt": "Review this week's LinkedIn and website metrics. Return: 1) top 3 performance shifts, 2) likely drivers, 3) 3 actions for next week. Keep each action tied to a KPI.",
+      "projectId": "adapt-forward-dashboard"
+    },
+    {
+      "id": "prompt-dashboard-insight-2",
+      "title": "Executive KPI Summary (Adapt Forward)",
+      "prompt": "Create an executive summary from this KPI table. Format: Wins, Risks, Decisions Needed. Use concise language and include where data is directional vs confirmed.",
+      "projectId": "adapt-forward-dashboard"
+    }
+  ]
+}

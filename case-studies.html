@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects | AI-Native Marketing + Analytics</title>
+    <meta
+      name="description"
+      content="Interactive AI + analytics projects including outcomes, tools, and workflow artifacts."
+    />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body data-page="case-studies">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header" id="top">
+      <nav class="container nav" aria-label="Main navigation">
+        <a href="./index.html" class="brand">Marketing OS</a>
+        <button class="menu-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+        <ul id="primary-nav" class="nav-links">
+          <li><a href="./index.html">Home</a></li>
+          <li><a href="./case-studies.html" aria-current="page">Projects</a></li>
+          <li><a href="./contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="section page-intro">
+        <div class="container">
+          <p class="eyebrow">Built, Shipped, Measured, Iterated</p>
+          <h1>Projects</h1>
+          <p>
+            These projects show how I execute marketing work as systems: clear problem definition, practical build,
+            measurable outcomes, and repeatable operating workflows.
+          </p>
+
+          <div class="controls" aria-label="Project search and filters">
+            <label for="project-search" class="sr-only">Search projects</label>
+            <input
+              id="project-search"
+              class="search-input"
+              type="search"
+              placeholder="Search title, summary, tags, or tools"
+              autocomplete="off"
+            />
+            <div class="chip-group" role="group" aria-label="Filter projects by category">
+              <button class="chip" data-filter="AI" type="button">AI</button>
+              <button class="chip" data-filter="Analytics" type="button">Analytics</button>
+              <button class="chip" data-filter="Automation" type="button">Automation</button>
+              <button class="chip" data-filter="Strategy" type="button">Strategy</button>
+              <button class="chip" data-filter="Content Ops" type="button">Content Ops</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div id="results-meta" class="results-meta" aria-live="polite"></div>
+          <div id="projects-grid" class="project-grid" aria-live="polite"></div>
+          <p id="empty-state" class="empty-state" hidden>No projects match that search/filter combination.</p>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer" id="contact">
+      <div class="container footer-inner">
+        <p>Questions or collaboration ideas?</p>
+        <div class="footer-links">
+          <a href="https://www.linkedin.com/in/genevieve-jenks-b0386832b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="mailto:veve.jenks@gmail.com" target="_blank" rel="noopener noreferrer">veve.jenks@gmail.com</a>
+        </div>
+      </div>
+    </footer>
+
+    <div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+    <script src="./assets/app.js"></script>
+  </body>
+</html>
